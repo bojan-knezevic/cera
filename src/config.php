@@ -7,7 +7,7 @@ const PARAMS = [
     "HOST" => 'localhost',
     "USER" => 'root',
     "PASSWORD" => '',
-    "DB" => 'found2',
+    "DB" => 'cera',
     "CHARSET" => 'utf8mb4'
 ];
 /*
